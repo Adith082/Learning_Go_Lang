@@ -1,0 +1,11 @@
+-> when calling a function,
+
+ram allocates some memory for that function (for storing variables)
+
+after function execution is done, that memory won't be allocated anymore
+
+-> why we need or require function? to organize code, reuse code, improve readability and less error prone code! 
+
+->SOLID principle (software engineering philosophy)
+
+-> S of SOLID is single responsibility principle
